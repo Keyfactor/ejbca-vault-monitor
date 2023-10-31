@@ -1,5 +1,8 @@
 ![PrimeKey](primekey_logo.png)
 
+# Un-maintained
+This plug-in is not maintained. For a production ready Vault Secrets Engine, see the [Keyfactor Vault Secrets Enginge](https://github.com/Keyfactor/hashicorp-vault-secretsengine)
+
 # Community supported 
 We welcome contributions.
  
